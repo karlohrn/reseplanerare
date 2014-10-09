@@ -1,0 +1,4 @@
+#ifndef graf_lib
+#define graf_lib
+#include <stdio.h>
+#endif
